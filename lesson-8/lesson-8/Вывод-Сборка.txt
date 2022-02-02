@@ -1,0 +1,4 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: Settings, Конфигурация: Debug Any CPU ------
+1>  Settings -> C:\Users\89060\OneDrive\Рабочий стол\HomeWork\HomeWork-\lesson-8\lesson-8\Settings\bin\Debug\Lesson-8-Settings.exe
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
